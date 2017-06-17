@@ -34,6 +34,77 @@
 
 **Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
 
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet4](https://twitter.com/akashkandpal123/status/873804344507981824) 
+
+
+### Day 5: June 11, 2017 Sunday
+
+**Today's Progress**: freecodecamp schedule,website,portfolio.
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
+**Link(s) to work** [Source Code](https://t.co/ObKlgYe4Ak) || [Challenges](https://t.co/OTQJVTAHxV) || [Tweet5](https://twitter.com/akashkandpal123/status/874214782798319620)
+
+
+### Day 6: June 12, 2017 Monday
+
+**Today's Progress**: freecodecamp schedule,website building .
+
+**Thoughts** Freecodecamp and Build a website for an internship .
+
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824) || [Website](https://t.co/ObKlgYe4Ak)
+
+
+### Day 7: June 10, 2017 Saturday
+
+**Today's Progress**: Not much busy with freecodecamp schedule .
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
 **Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824)
 
+
+### Day 8: June 10, 2017 Saturday
+
+**Today's Progress**: Not much busy with freecodecamp schedule .
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824)
+
+
+### Day 9: June 10, 2017 Saturday
+
+**Today's Progress**: Not much busy with freecodecamp schedule .
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824)
+
+
+### Day 10: June 10, 2017 Saturday
+
+**Today's Progress**: Not much busy with freecodecamp schedule .
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824)
+
+
+### Day 11: June 10, 2017 Saturday
+
+**Today's Progress**: Not much busy with freecodecamp schedule .
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824)
+
+
+### Day 12: June 10, 2017 Saturday
+
+**Today's Progress**: Not much busy with freecodecamp schedule .
+
+**Thoughts** Couldn't do any project as was busy with the internship but lateron coded heavily for freecodecamp bootcamp (moved to 200+) .
+
+**Link(s) to work** [Source Code](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables) || [Tweet3](https://twitter.com/akashkandpal123/status/873804344507981824)
 
